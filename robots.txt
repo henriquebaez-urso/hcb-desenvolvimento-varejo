@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://henriquebaez-urso.github.io/hcb-desenvolvimento-varejo/sitemap.xml
